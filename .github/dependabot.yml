@@ -3,7 +3,7 @@ updates:
   - package-ecosystem: github-actions
     directory: /
     assignees:
-      - sebbo2002
+      - aarhus
     commit-message:
       prefix: "ci"
       include: scope
